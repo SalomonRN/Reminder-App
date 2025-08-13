@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+draft_code/
+src/user/icons/*.png
+
+notas.md
